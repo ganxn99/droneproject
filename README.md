@@ -13,11 +13,9 @@
 
     ```bash
     bin/build-env.sh
-<<<<<<< HEAD
-    ```bash
-=======
+
     ```
->>>>>>> ce063127928fe81d4499666a6e71e06114bf52e7
+
 
 2. Run docker image
 
