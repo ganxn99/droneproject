@@ -1,4 +1,4 @@
-## How to get start? 
+## How to get started? 
 
 ## Docker Installation
   * Windows 10 Home
