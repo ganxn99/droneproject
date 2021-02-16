@@ -13,7 +13,7 @@
 
     ```bash
     bin/build-env.sh
-    ```
+    ```bash
 
 2. Run docker image
 
